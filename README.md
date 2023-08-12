@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Advanced python, C, C++, Rust**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available on my GitHub
 
 - 📫 How to reach me **noparthreally@gmail.com**
 
-- ⚡ Fun fact **I think i am funny and I can charm ladies and i use that username everywhere and im weird**
+- ⚡ Fun fact **I think I am funny and I can charm ladies and I use that username everywhere and im weird**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
