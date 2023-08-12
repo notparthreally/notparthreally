@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Advanced python, C, C++, Rust**
 
-- 📝 I am active on IG [@notparthreally](@notparthreally)
+- 📝 I am active on IG [@notparthreally]
 
 - 📫 How to reach me **noparthreally@gmail.com**
 
-- ⚡ Fun fact **I think i am funny and I can charm ladies**
+- ⚡ Fun fact **I think I am funny and I can charm ladies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,13 +26,13 @@
 
 - 🌱 I’m currently learning **Advanced python, C, C++, Rust**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available at [my github](my GitHub)
 
-- 📝 I am active on IG [@notparthreally](@notparthreally)
+- 📝 I am active on IG
 
 - 📫 How to reach me **noparthreally@gmail.com**
 
-- ⚡ Fun fact **I think i am funny and I can charm ladies**
+- ⚡ Fun fact **I think I am funny and I can charm ladies** **and yea I use that username everywhere**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
