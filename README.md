@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Advanced python, C, C++, Rust**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
-
 - 📝 I am active on IG [@notparthreally](@notparthreally)
 
 - 📫 How to reach me **noparthreally@gmail.com**
